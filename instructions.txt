@@ -1,0 +1,20 @@
+#Virtual Assistant
+
+this is a Virtual Assistant{"octave"}, that provides the Alexa alike voice commands feature including telling the time, playing music, searching web and many more.
+
+Steps to run "Octave":
+
+1. Download the .rar file and extract it.
+2. After Extracting, open the extracted folder and double clik on the application named as "Octave".
+3. Wait for a while, a window will open and a sound will play automatically.
+4. "Octave" will greet u and ask for your name.
+5. tell your name and after that "Octave" will ask u to give him the command.
+
+Various Functions u can test on octave:
+1. "Tell me the current Time!"
+2. "Search on wikipedia!"
+3. "Tell me the joke!"
+4. "Goodbye!"(to switch off the octave)
+5. "play music {music name}!"
+
+and many more.
