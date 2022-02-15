@@ -2,6 +2,8 @@
 
 this is a Virtual Assistant{"octave"}, that provides the Alexa alike voice commands feature including telling the time, playing music, searching web and many more.
 
+#Executable File: https://drive.google.com/drive/folders/1eN1wfo74v5f-FyOoMlKtAB_0iA-O0VFf?usp=sharing
+
 Steps to run "Octave":
 
 1. Download the .rar file and extract it.
